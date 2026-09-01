@@ -3,7 +3,7 @@
 //====================================
 
 // Função principal que recebe os valores de A, B, e C
-function calcularbhaskara(a, b, c) {
+function calcularBhaskara(a, b, c) {
     // Validação básica: 'a' não pode ser zero em uma equação de 2 grau
     if (a === 0) {
         return "O valor de 'a' não pode ser zero";
