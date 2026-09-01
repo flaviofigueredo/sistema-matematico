@@ -18,5 +18,5 @@ function dividir(a, b) {
 }
 
 module.exports = {
-soamr, subtrair, multiplicar, dividir
+somar, subtrair, multiplicar, dividir
 };
