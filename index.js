@@ -10,8 +10,8 @@ console.log ("===================================\ n");
 // Testando o módulo da calculadora criado pelo colega
 console.log("--- TESTANDO A CALCULADORA ---");
 console.log(`Soma de 10 + 5 = ${ calculadora.somar (10, 5)}`);
-console.log(` Subtracao de 20 - 8 = ${ calculadora.subtrair (20, 8)}`);
-console.log(` Multiplicacao de 4 * 6 = ${ calculadora.multiplicar (4, 6)}`);
+console.log(`Subtracao de 20 - 8 = ${ calculadora.subtrair (20, 8)}`);
+console.log(`Multiplicacao de 4 * 6 = ${ calculadora.multiplicar (4, 6)}`);
 console.log(`Divisao de 15 / 3 = ${ calculadora.dividir (15, 3)}`);
 console.log(`Teste erro divisao = ${ calculadora.dividir (10, 0)}`);
 console.log ("\n--- TESTANDO O BHASKARA ---");
